@@ -1,0 +1,33 @@
+.symptoms {
+	display: flex;
+	flex-direction: row;
+    max-width: 100%;
+    background: #e5dbd4;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.symptoms-img {
+	width: 50%;
+}
+
+.symptoms-list {
+	padding: 60px 60px 60px 60px;
+	display: flex;
+    flex-direction: column;
+}
+
+.symptoms-list__title {
+    font-family: Roboto, Arial;
+    font-weight: bold;
+    font-size: 28px;
+    color: #000000;
+}
+
+.symptoms-list__text {
+    font-family: Roboto, Arial;
+    font-size: 16px;
+    color: #000000;
+    text-align: justify;
+    margin: 30px 0px 40px 0px;
+}
