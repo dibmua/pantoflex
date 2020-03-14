@@ -2,7 +2,7 @@
 	display: flex;
 	flex-direction: row;
     max-width: 100%;
-    background: #e5dbd4;
+    background-image: url("image/symptoms-img.png");
     margin-top: 40px;
     margin-bottom: 40px;
 }
